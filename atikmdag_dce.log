@@ -1,0 +1,1152 @@
+*** Log File Version: 3.0 ***
+[00:00:03:07:753:677] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:03:07:753:693] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:03:07:753:706] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:03:07:753:717] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:03:07:753:783] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+^
+[00:00:03:07:753:796] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:03:07:753:802] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:03:07:753:810] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:03:07:753:833] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:03:07:778:083] [Conn_Num_Display]	 0
+^
+[00:00:03:10:124:444] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:03:10:124:455] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:03:10:124:463] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:03:10:124:469] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:03:10:124:557] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+^
+[00:00:03:10:124:574] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:03:10:124:581] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:03:10:124:587] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:03:10:124:593] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:03:10:916:803] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:10:921:379] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:03:13:595:689] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+*** Log File Version: 3.0 ***
+[00:00:03:15:372:494] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:03:15:372:503] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:03:15:372:510] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:03:15:372:515] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:03:15:372:548] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+^
+[00:00:03:15:372:557] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:03:15:372:562] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:03:15:372:567] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:03:15:372:584] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:03:15:405:864] [Conn_Num_Display]	 0
+^
+[00:00:03:15:652:674] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:03:15:652:682] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:03:15:652:687] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:03:15:652:691] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:03:15:652:749] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+^
+[00:00:03:15:652:759] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:03:15:652:763] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:03:15:652:767] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:03:15:652:770] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:03:15:678:231] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:15:682:534] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:03:20:133:038] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:03:20:133:044] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:05:54:420:116] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:36:701:038] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:36:843:739] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:09:36:843:754] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:09:42:125:269] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:34:179:692] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:34:333:771] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:12:34:333:789] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:06:39:677:839] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:41:789:064] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:41:984:262] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:06:41:984:278] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:20:18:428:638] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:20:20:439:709] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:20:20:691:755] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:20:20:691:770] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+*** Log File Version: 3.0 ***
+[00:00:01:04:099:428] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:01:04:099:442] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:01:04:099:452] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:01:04:099:457] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:01:04:099:492] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+^
+[00:00:01:04:099:501] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:01:04:099:508] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:01:04:099:513] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:01:04:099:537] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:01:04:130:092] [Conn_Num_Display]	 0
+^
+[00:00:01:04:397:157] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:01:04:397:170] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:01:04:397:179] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:01:04:397:185] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:01:04:397:255] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+^
+[00:00:01:04:397:268] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:01:04:397:274] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:01:04:397:280] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:01:04:397:284] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:01:04:529:028] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:01:04:533:655] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:01:04:596:316] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:01:04:596:325] [Conn_Pixel_Format] - [ARGB8888]
+^
+*** Log File Version: 3.0 ***
+[00:00:00:55:869:487] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:00:55:869:501] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:00:55:869:511] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:00:55:869:516] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:00:55:869:551] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+^
+[00:00:00:55:869:562] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:00:55:869:568] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:00:55:869:573] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:00:55:869:598] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:00:55:899:203] [Conn_Num_Display]	 0
+^
+[00:00:00:56:226:019] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:00:56:226:032] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:00:56:226:042] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:00:56:226:048] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:00:56:226:120] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+^
+[00:00:00:56:226:132] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:00:56:226:138] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:00:56:226:144] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:00:56:226:150] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:00:56:347:875] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:00:56:352:986] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:00:56:378:891] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:00:56:378:900] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:16:36:609:152] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:16:44:170:750] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:16:58:465:133] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:13:25:471:354] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:13:25:983:801] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:13:25:983:847] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:13:25:983:851] [Conn_Num_Display]	 1
+^
+[00:00:13:25:987:429] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:13:26:397:292] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:13:27:430:560] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:13:27:430:581] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:07:13:695:515] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:07:15:109:818] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:07:15:266:104] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:07:15:266:120] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:05:57:613:799] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:01:058:977] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:01:213:418] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:06:01:213:426] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:16:33:383:151] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:23:370:556] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:23:515:444] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:17:23:515:451] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:07:43:071:806] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:10:59:302:913] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:10:59:442:483] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:10:59:442:492] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:27:54:975:281] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:00:791:096] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:00:946:295] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:28:00:946:310] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:17:09:125:238] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:19:750:296] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:12:58:657:240] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:12:58:657:274] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:12:58:657:278] [Conn_Num_Display]	 1
+^
+[00:00:12:59:372:091] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:13:15:889:647] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:09:40:680:986] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:41:103:304] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:09:41:103:333] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:09:41:103:336] [Conn_Num_Display]	 1
+^
+[00:00:09:41:785:397] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:41:906:187] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:09:42:481:612] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:09:42:481:622] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:20:59:862:457] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:21:01:222:137] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:21:01:432:378] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:21:01:432:394] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:30:05:376:632] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:06:583:384] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:06:733:581] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:30:06:733:637] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:03:31:192:697] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:43:929:409] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:44:181:628] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:03:44:181:644] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:14:04:087:951] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:14:06:583:563] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:14:06:736:860] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:14:06:736:871] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:24:02:531:157] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:22:791:810] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:22:939:448] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:12:22:939:463] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:12:45:532:228] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:13:00:248:454] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:13:25:093:037] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:09:28:959:316] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:29:174:351] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:09:29:174:388] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:09:29:174:393] [Conn_Num_Display]	 1
+^
+[00:00:09:29:176:368] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:29:178:307] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:09:30:040:508] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:09:30:040:518] [Conn_Pixel_Format] - [ARGB8888]
+^
+*** Log File Version: 3.0 ***
+[00:00:00:44:479:948] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:00:44:479:960] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:00:44:479:969] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:00:44:479:975] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:00:44:480:009] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+^
+[00:00:00:44:480:019] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:00:44:480:025] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:00:44:480:031] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:00:44:480:049] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:00:44:509:566] [Conn_Num_Display]	 0
+^
+[00:00:00:44:766:169] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:00:44:766:180] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:00:44:766:188] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:00:44:766:194] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:00:44:766:266] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+^
+[00:00:00:44:766:279] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:00:44:766:284] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:00:44:766:289] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:00:44:766:294] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:00:44:860:341] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:00:44:865:604] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:00:44:882:418] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:00:44:882:427] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:12:42:824:340] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:49:779:830] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:13:11:303:868] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:24:32:652:608] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:24:33:108:622] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:24:33:108:639] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:24:33:108:642] [Conn_Num_Display]	 1
+^
+[00:00:24:33:111:366] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:24:33:158:538] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:24:34:121:312] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:24:34:121:321] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:06:32:963:741] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:45:843:909] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:07:10:927:155] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:09:51:242:860] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:51:248:486] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:09:51:248:522] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:09:51:248:530] [Conn_Num_Display]	 1
+^
+[00:00:09:51:373:763] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:09:51:388:181] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:09:51:492:886] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:09:51:492:900] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:02:36:548:212] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:04:02:646:012] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:04:02:797:050] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:04:02:797:064] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:13:42:447:736] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:24:19:779:533] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:24:19:779:543] [Conn_Link_Status]	[EDP-1] link is :Off, [0 link loss/24 minutes]
+^
+[00:00:29:12:219:814] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:29:12:219:839] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:29:12:219:843] [Conn_Num_Display]	 1
+^
+[00:00:29:12:239:923] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:12:245:208] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:12:937:612] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:29:12:937:623] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:29:14:567:167] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:29:14:567:179] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:04:17:257:714] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:14:39:256:281] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:14:39:256:293] [Conn_Link_Status]	[EDP-1] link is :Off, [0 link loss/14 minutes]
+^
+[00:00:03:31:913:843] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:03:31:913:864] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:03:31:913:867] [Conn_Num_Display]	 1
+^
+[00:00:03:31:917:689] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:31:922:891] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:32:602:200] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:03:32:602:210] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:03:32:747:225] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:03:32:747:236] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:03:48:170:290] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:51:502:836] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:03:51:502:849] [Conn_Link_Status]	[EDP-1] link is :Off, [0 link loss/3 minutes]
+^
+[00:00:30:10:493:965] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:10:497:363] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:30:10:497:385] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:30:10:497:390] [Conn_Num_Display]	 1
+^
+[00:00:30:15:962:726] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:16:16:919:430] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:16:16:926:020] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:16:16:926:062] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:16:16:926:066] [Conn_Num_Display]	 1
+^
+[00:00:16:16:943:724] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:16:16:947:126] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:16:17:117:402] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:16:17:117:410] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:00:02:938:914] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:04:32:972:777] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:04:33:125:326] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:04:33:125:341] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:10:48:095:685] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:11:00:642:311] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:11:25:009:511] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:12:53:187:409] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:53:190:103] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:12:53:190:120] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:12:53:190:123] [Conn_Num_Display]	 1
+^
+[00:00:12:53:192:489] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:53:194:542] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:12:53:479:530] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:12:53:479:537] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:01:43:841:838] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:11:12:345:102] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:11:12:498:247] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:11:12:498:262] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:16:14:721:300] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:04:511:340] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:04:655:635] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:17:04:655:650] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:17:55:114:991] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:56:177:461] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:18:02:229:634] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:28:19:789:107] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:20:045:855] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:28:20:045:876] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:28:20:045:881] [Conn_Num_Display]	 1
+^
+[00:00:28:20:048:657] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:20:182:209] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:28:20:199:651] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:28:20:199:661] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:01:12:059:852] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:01:18:779:144] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:01:24:536:738] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:06:07:773:623] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:07:776:480] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:06:07:776:497] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:06:07:776:499] [Conn_Num_Display]	 1
+^
+[00:00:06:07:777:800] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:06:07:779:915] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:06:07:808:016] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:06:07:808:022] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:12:10:703:949] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:11:953:454] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:12:17:769:415] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:08:28:884:020] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:08:28:888:858] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:08:28:888:888] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:08:28:888:892] [Conn_Num_Display]	 1
+^
+[00:00:08:28:890:479] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:08:28:892:494] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:08:28:922:438] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:08:28:922:446] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:17:17:438:824] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:19:43:780:031] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:19:45:418:504] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:19:45:418:520] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:28:50:453:808] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:58:668:946] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:03:32:345:555] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:03:32:345:596] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:03:32:345:602] [Conn_Num_Display]	 1
+^
+[00:00:03:32:572:832] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:32:837:640] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:33:257:971] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:03:33:257:981] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:03:34:698:940] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:03:34:698:953] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:29:45:719:694] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:14:052:409] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:26:37:417:970] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:26:40:662:219] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:26:40:662:259] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:26:40:662:262] [Conn_Num_Display]	 1
+^
+[00:00:27:26:930:978] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:27:35:345:282] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:27:35:345:296] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:27:43:838:751] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:27:43:838:759] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:04:53:095:528] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:04:59:447:180] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:05:26:110:047] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:05:26:110:058] [Conn_Link_Status]	[EDP-1] link is :Off, [0 link loss/5 minutes]
+^
+[00:00:05:56:075:994] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:05:56:076:021] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:05:56:076:026] [Conn_Num_Display]	 1
+^
+[00:00:05:56:082:955] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:05:56:131:579] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:05:56:135:186] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:05:56:296:065] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:05:56:296:073] [Conn_Pixel_Format] - [ARGB8888]
+^
+*** Log File Version: 3.0 ***
+[00:00:00:49:480:352] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:00:49:480:364] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:00:49:480:372] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:00:49:480:377] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:00:49:480:411] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+^
+[00:00:00:49:480:421] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:00:49:480:426] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:00:49:480:431] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:00:49:480:451] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:00:49:498:276] [Conn_Num_Display]	 0
+^
+[00:00:00:49:760:222] [Varibright_State]	[EDP-1] - Supported: True - ABM Version: 0x23
+^
+[00:00:00:49:760:232] [Conn_Color_Depth_Caps]	[EDP-1] - Supported Color Depths: 6 bpc
+^
+[00:00:00:49:760:241] [Conn_Disp_Cap_HDR_Metadata_Colorimetry] - Area[738227215] - R[58691,36328] - G[35058,57714] - B[16308,12207] - WP[31347,32910]
+^
+[00:00:00:49:760:246] [Conn_Edid_Block_Type]	[EDP-1] EDID blocks: 1 Edid14Base
+^
+[00:00:00:49:760:318] [Conn_Detect]	[EDP-1] DDC Display: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 09 E5 7C 09 00 00 00 00 
+1A 1E 01 04 95 1F 11 78 02 4F D5 96 5D 59 93 29 
+1F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 3A 37 80 DE 70 38 14 40 30 20 
+36 00 35 AE 10 00 00 1A 2E 2C 80 DE 70 38 14 40 
+30 20 36 00 35 AE 10 00 00 1A 00 00 00 FE 00 56 
+34 50 4E 59 80 4E 56 31 34 4E 34 48 00 00 00 00 
+00 00 41 21 96 00 10 00 00 0A 01 0A 20 20 00 44 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+^
+[00:00:00:49:760:331] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:310mm, Y Dim:170mm]
+^
+[00:00:00:49:760:336] [Conn_native_mode]	[EDP-1] {1920x1080@60Hz}
+^
+[00:00:00:49:760:341] [Conn_Stereo3D_support]	[EDP-1] - Stereo3D:0
+^
+[00:00:00:49:760:346] [Conn_DSC_Caps]	[EDP-1] DSC Support: NO
+^
+[00:00:00:49:845:417] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:00:49:849:939] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:00:49:866:091] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:00:49:866:100] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:20:17:298:699] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:20:19:279:168] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:20:19:472:685] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:20:19:472:701] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:28:21:974:584] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:26:692:272] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:47:736:535] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:21:39:936:806] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:21:39:944:585] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:21:39:944:601] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:21:39:944:604] [Conn_Num_Display]	 1
+^
+[00:00:21:40:035:407] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:21:40:038:014] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:21:40:048:898] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:21:40:048:905] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:03:11:082:758] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:14:087:478] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:14:228:434] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:03:14:228:449] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:29:08:823:541] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:10:640:579] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:10:839:823] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:29:10:839:839] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:29:55:526:016] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:21:395:416] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:00:09:214:256] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:17:38:206:537] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:38:209:363] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:17:38:209:381] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:17:38:209:385] [Conn_Num_Display]	 1
+^
+[00:00:17:38:211:084] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:38:213:299] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:17:38:242:867] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:17:38:242:873] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:16:38:138:724] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:09:708:797] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:26:42:703:646] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:26:42:703:685] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:26:42:703:691] [Conn_Num_Display]	 1
+^
+[00:00:26:44:766:492] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:27:00:694:485] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:27:32:349:467] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:27:32:349:481] [Conn_Link_Status]	[EDP-1] link is :Off, [0 link loss/27 minutes]
+^
+[00:00:28:01:376:973] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:01:380:584] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:28:01:394:895] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:28:01:400:069] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:28:01:400:091] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:28:01:400:095] [Conn_Num_Display]	 1
+^
+[00:00:28:01:534:692] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:28:01:534:698] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:17:09:216:356] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:17:34:839:012] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:18:07:069:872] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:07:53:646:918] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:07:53:649:386] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:07:53:649:402] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:07:53:649:405] [Conn_Num_Display]	 1
+^
+[00:00:07:53:652:220] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:07:53:654:518] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:07:53:902:318] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:07:53:902:329] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:21:09:506:514] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:21:18:035:500] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:21:53:047:375] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:01:20:087:300] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:01:20:107:221] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:01:20:109:276] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:01:20:109:597] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:01:20:109:613] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:01:20:109:617] [Conn_Num_Display]	 1
+^
+[00:00:01:20:214:902] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:01:20:214:909] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:03:21:063:106] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:03:21:064:408] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:14:54:033:066] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:15:20:739:585] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:15:59:040:000] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:29:13:115:059] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:13:354:671] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:29:13:354:719] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:29:13:354:725] [Conn_Num_Display]	 1
+^
+[00:00:29:13:468:131] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:13:470:596] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:29:15:438:234] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:29:15:438:241] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:30:05:438:140] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:06:088:798] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:30:06:525:078] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:30:06:525:094] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
+[00:00:18:21:938:915] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:18:51:497:285] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:19:14:117:950] [Varibright_State]	[EDP-1] - Level: 3
+^
+[00:00:16:53:810:237] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:16:53:832:924] [Conn_Hotplug]	[HDMI-2] - Disconnected
+^
+[00:00:16:53:832:957] [Conn_Hotplug]	[USBC-1] - Disconnected
+^
+[00:00:16:53:832:962] [Conn_Num_Display]	 1
+^
+[00:00:16:53:833:247] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:16:53:859:841] [Conn_LKTN]	[EDP-1] Unknownx0 pass VS=0, PE=0
+^
+[00:00:16:53:890:219] [Conn_OS_TF_CS] - TF[sRGB] - CS[sRGB]
+^
+[00:00:16:53:890:228] [Conn_Pixel_Format] - [ARGB8888]
+^
+[00:00:29:47:430:821] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:49:207:144] [Conn_Mode]	[EDP-1] {1920x1080, 1920x1080@60:1, 2142x1100@141380Khz}
+^
+[00:00:29:49:356:494] [Conn_LKTN]	[EDP-1] HBRx2 pass VS=0, PE=0
+^
+[00:00:29:49:356:509] [Conn_Link_Status]	[EDP-1] link is :On, [0 link training failed/1 attempted]
+^
